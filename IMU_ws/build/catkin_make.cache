@@ -1,0 +1,2 @@
+wit_ros_imu
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/IMU_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/IMU_ws/install -G Unix Makefiles
